@@ -31,6 +31,13 @@ A full-stack digital wallet application built using the **MERN** stack (MongoDB,
   - Sudden large withdrawals
 - Anomalies flagged with **logs/mock alerts** for review
 
+### 5. 🛡️ Admin & Reporting APIs
+- Dedicated admin endpoints for:
+  - Viewing **flagged/suspicious transactions**
+  - Aggregating **total balances** across users
+  - Viewing **top users** by wallet balance or transaction volume
+
+
 ---
 
 ## 🛠️ Tech Stack
